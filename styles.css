@@ -73,7 +73,7 @@ header {
 }
 
 footer {
-    margin-top: 160px;
+    margin-top: 50px;
     width: 100%;
     padding: 20px;
     background: linear-gradient(150deg, #6a77e6, #8c96f7);
@@ -84,22 +84,22 @@ footer {
 }
 
 /* para pantallas de al menos 1000px de amplitud y no menos de 2000px*/
-@media screen and (min-width: 1000px) and  (max-width: 2000px) {
+/* @media screen and (min-width: 1000px) and  (max-width: 2000px) {
     footer {
         margin-top: 105px;
     }
-}
+} */
 
 /* para pantallas de al menos 500px de amplitud y no menos de 999 */
-@media screen and (min-width: 500px) and (max-width: 999px) {
+/* @media screen and (min-width: 500px) and (max-width: 999px) {
     footer {
         margin-top: 135px;
     }
-}
+} */
 
 /* para pantallas de al menos 200px de amplitud y no menos de 499 */
-@media screen and (min-width: 200px) and (max-width: 499px) {
+/* @media screen and (min-width: 200px) and (max-width: 499px) {
     footer {
         margin-top: 100px;
     }
-}
+} */
