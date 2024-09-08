@@ -73,7 +73,7 @@ header {
 }
 
 footer {
-    margin-top: 50px;
+    margin-top: 105px;
     width: 100%;
     padding: 20px;
     background: linear-gradient(150deg, #6a77e6, #8c96f7);
@@ -98,8 +98,8 @@ footer {
 } */
 
 /* para pantallas de al menos 200px de amplitud y no menos de 499 */
-/* @media screen and (min-width: 200px) and (max-width: 499px) {
+@media screen and (min-width: 200px) and (max-width: 399px) {
     footer {
-        margin-top: 100px;
+        margin-top: 30px;
     }
-} */
+}
