@@ -83,10 +83,10 @@ footer {
     font-size: 14px;
 }
 
-/* para pantallas de al menos 1000px de amplitud */
-@media screen and (min-width: 1000px) {
+/* para pantallas de al menos 1000px de amplitud y no menos de 2000px*/
+@media screen and (min-width: 1000px) and  (max-width: 2000px) {
     footer {
-        margin-top: 135px;
+        margin-top: 105px;
     }
 }
 
